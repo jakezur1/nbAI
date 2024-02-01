@@ -1,4 +1,4 @@
-# sports-betting
+# nbAI
 
 ### Research Papers To Consider:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9764182/#bib2
